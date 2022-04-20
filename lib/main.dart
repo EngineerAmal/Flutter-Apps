@@ -20,7 +20,7 @@ class CalculatorApp extends StatelessWidget {
 
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter Calulator'),
+          title: Text('Flutter Calculator'),
         ),
 
         backgroundColor: Colors.white60,
